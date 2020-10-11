@@ -9,7 +9,7 @@ the database is build with SQLite
 
 ## frontend instructions:
 1. `npm install` in folder directory (currency_calculator_front)
-2. `npm run serve` to start the server
+2. `npm run serve` to start the app
 
 ### areas of improvement:
 * more extensive input validations
